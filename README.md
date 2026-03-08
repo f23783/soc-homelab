@@ -1,4 +1,4 @@
-# 🛡️ Home Lab SOC Environment
+# 🛡️ SOC Home Lab Environment
 
 A personal Security Operations Center (SOC) lab environment built for hands-on blue team training, threat detection, and DFIR practice. This project documents my journey in building a segmented network with enterprise-grade security monitoring capabilities on a home lab budget.
 
