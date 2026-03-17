@@ -196,11 +196,11 @@ Completed DFIR challenges using this lab environment:
 
 ## Future Improvements
 
-- [+] Replace pfSense laptop with dedicated mini PC
+- [x] Replace pfSense laptop with dedicated mini PC
 - [ ] Add dedicated SPAN port for Security Onion
 - [ ] Implement Wazuh for endpoint detection (EDR)
 - [ ] **LLM-powered log analysis** — Integrate local LLM with n8n for automated log summarization, anomaly detection, and server health monitoring
-- [+] Create attack simulations with Atomic Red Team
+- [x] Create attack simulations with Atomic Red Team
 - [ ] Add Velociraptor for endpoint forensics
 - [ ] Document more HackTheBox Sherlock writeups
 
